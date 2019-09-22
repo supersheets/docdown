@@ -1,3 +1,6 @@
+# docdown
+test/files/*.output.*
+
 # Logs
 logs
 *.log

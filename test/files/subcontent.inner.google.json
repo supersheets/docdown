@@ -1,0 +1,323 @@
+{
+  "startIndex": 44,
+  "endIndex": 237,
+  "content": [
+    {
+      "startIndex": 45,
+      "endIndex": 77,
+      "paragraph": {
+        "elements": [
+          {
+            "startIndex": 45,
+            "endIndex": 77,
+            "textRun": {
+              "content": "Four score and seven years ago \n",
+              "textStyle": {}
+            }
+          }
+        ],
+        "paragraphStyle": {
+          "headingId": "h.1qp7e918k96p",
+          "namedStyleType": "HEADING_1",
+          "lineSpacing": 100,
+          "direction": "LEFT_TO_RIGHT",
+          "avoidWidowAndOrphan": false
+        }
+      }
+    },
+    {
+      "startIndex": 77,
+      "endIndex": 78,
+      "paragraph": {
+        "elements": [
+          {
+            "startIndex": 77,
+            "endIndex": 78,
+            "textRun": {
+              "content": "\n",
+              "textStyle": {}
+            }
+          }
+        ],
+        "paragraphStyle": {
+          "namedStyleType": "NORMAL_TEXT",
+          "lineSpacing": 100,
+          "direction": "LEFT_TO_RIGHT",
+          "avoidWidowAndOrphan": false
+        }
+      }
+    },
+    {
+      "startIndex": 78,
+      "endIndex": 124,
+      "paragraph": {
+        "elements": [
+          {
+            "startIndex": 78,
+            "endIndex": 124,
+            "textRun": {
+              "content": "our fathers brought forth on this continent, \n",
+              "textStyle": {}
+            }
+          }
+        ],
+        "paragraphStyle": {
+          "namedStyleType": "NORMAL_TEXT",
+          "lineSpacing": 100,
+          "direction": "LEFT_TO_RIGHT",
+          "indentFirstLine": {
+            "magnitude": 18,
+            "unit": "PT"
+          },
+          "indentStart": {
+            "magnitude": 36,
+            "unit": "PT"
+          },
+          "avoidWidowAndOrphan": false
+        },
+        "bullet": {
+          "listId": "kix.xrmx5qv3l4z5",
+          "textStyle": {
+            "underline": false
+          }
+        }
+      }
+    },
+    {
+      "startIndex": 124,
+      "endIndex": 139,
+      "paragraph": {
+        "elements": [
+          {
+            "startIndex": 124,
+            "endIndex": 136,
+            "textRun": {
+              "content": "a new nation",
+              "textStyle": {
+                "bold": true
+              }
+            }
+          },
+          {
+            "startIndex": 136,
+            "endIndex": 139,
+            "textRun": {
+              "content": ", \n",
+              "textStyle": {}
+            }
+          }
+        ],
+        "paragraphStyle": {
+          "namedStyleType": "NORMAL_TEXT",
+          "lineSpacing": 100,
+          "direction": "LEFT_TO_RIGHT",
+          "indentFirstLine": {
+            "magnitude": 18,
+            "unit": "PT"
+          },
+          "indentStart": {
+            "magnitude": 36,
+            "unit": "PT"
+          },
+          "avoidWidowAndOrphan": false
+        },
+        "bullet": {
+          "listId": "kix.xrmx5qv3l4z5",
+          "textStyle": {
+            "underline": false
+          }
+        }
+      }
+    },
+    {
+      "startIndex": 139,
+      "endIndex": 162,
+      "paragraph": {
+        "elements": [
+          {
+            "startIndex": 139,
+            "endIndex": 162,
+            "textRun": {
+              "content": "conceived in Liberty, \n",
+              "textStyle": {}
+            }
+          }
+        ],
+        "paragraphStyle": {
+          "namedStyleType": "NORMAL_TEXT",
+          "lineSpacing": 100,
+          "direction": "LEFT_TO_RIGHT",
+          "indentFirstLine": {
+            "magnitude": 18,
+            "unit": "PT"
+          },
+          "indentStart": {
+            "magnitude": 36,
+            "unit": "PT"
+          },
+          "avoidWidowAndOrphan": false
+        },
+        "bullet": {
+          "listId": "kix.xrmx5qv3l4z5",
+          "textStyle": {
+            "underline": false
+          }
+        }
+      }
+    },
+    {
+      "startIndex": 162,
+      "endIndex": 163,
+      "paragraph": {
+        "elements": [
+          {
+            "startIndex": 162,
+            "endIndex": 163,
+            "textRun": {
+              "content": "\n",
+              "textStyle": {}
+            }
+          }
+        ],
+        "paragraphStyle": {
+          "namedStyleType": "NORMAL_TEXT",
+          "lineSpacing": 100,
+          "direction": "LEFT_TO_RIGHT",
+          "indentFirstLine": {
+            "unit": "PT"
+          },
+          "indentStart": {
+            "unit": "PT"
+          },
+          "avoidWidowAndOrphan": false
+        }
+      }
+    },
+    {
+      "startIndex": 163,
+      "endIndex": 228,
+      "paragraph": {
+        "elements": [
+          {
+            "startIndex": 163,
+            "endIndex": 201,
+            "textRun": {
+              "content": "and dedicated to the proposition that ",
+              "textStyle": {}
+            }
+          },
+          {
+            "startIndex": 201,
+            "endIndex": 226,
+            "textRun": {
+              "content": "all men are created equal",
+              "textStyle": {
+                "italic": true
+              }
+            }
+          },
+          {
+            "startIndex": 226,
+            "endIndex": 228,
+            "textRun": {
+              "content": ".\n",
+              "textStyle": {}
+            }
+          }
+        ],
+        "paragraphStyle": {
+          "namedStyleType": "NORMAL_TEXT",
+          "lineSpacing": 100,
+          "direction": "LEFT_TO_RIGHT",
+          "indentFirstLine": {
+            "magnitude": 40.5,
+            "unit": "PT"
+          },
+          "indentStart": {
+            "magnitude": 40.5,
+            "unit": "PT"
+          },
+          "avoidWidowAndOrphan": false
+        }
+      }
+    },
+    {
+      "startIndex": 228,
+      "endIndex": 229,
+      "paragraph": {
+        "elements": [
+          {
+            "startIndex": 228,
+            "endIndex": 229,
+            "textRun": {
+              "content": "\n",
+              "textStyle": {}
+            }
+          }
+        ],
+        "paragraphStyle": {
+          "namedStyleType": "NORMAL_TEXT",
+          "lineSpacing": 100,
+          "direction": "LEFT_TO_RIGHT",
+          "indentFirstLine": {
+            "unit": "PT"
+          },
+          "indentStart": {
+            "unit": "PT"
+          },
+          "avoidWidowAndOrphan": false
+        }
+      }
+    },
+    {
+      "startIndex": 229,
+      "endIndex": 237,
+      "paragraph": {
+        "elements": [
+          {
+            "startIndex": 229,
+            "endIndex": 237,
+            "textRun": {
+              "content": "The end\n",
+              "textStyle": {}
+            }
+          }
+        ],
+        "paragraphStyle": {
+          "namedStyleType": "NORMAL_TEXT",
+          "lineSpacing": 100,
+          "direction": "LEFT_TO_RIGHT",
+          "indentFirstLine": {
+            "unit": "PT"
+          },
+          "indentStart": {
+            "unit": "PT"
+          },
+          "avoidWidowAndOrphan": false
+        }
+      }
+    }
+  ],
+  "tableCellStyle": {
+    "rowSpan": 1,
+    "columnSpan": 1,
+    "backgroundColor": {},
+    "paddingLeft": {
+      "magnitude": 5,
+      "unit": "PT"
+    },
+    "paddingRight": {
+      "magnitude": 5,
+      "unit": "PT"
+    },
+    "paddingTop": {
+      "magnitude": 5,
+      "unit": "PT"
+    },
+    "paddingBottom": {
+      "magnitude": 5,
+      "unit": "PT"
+    },
+    "contentAlignment": "TOP"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "@supersheets/docdown",
+  "version": "0.0.1",
+  "description": "Generate Markdown from a Google Docs API Document resource.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "fetch": "node scripts/fetch"
+  },
+  "keywords": [
+    "Markdown",
+    "Google Docs"
+  ],
+  "author": "Daniel Jhin Yoo <danieljyoo@gmail.com> (https://github.com/danieljyoo)",
+  "license": "MIT",
+  "homepage": "https://github.com/supersheets/docdown",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supersheets/docdown.git"
+  },
+  "dependencies": {
+    "jsonpath-plus": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1",
+    "dotenv": "^6.0.0",
+    "axios": "^0.18.0",
+    "jsonwebtoken": "^8.5.1",
+    "querystring": "^0.2.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
