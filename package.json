@@ -1,6 +1,6 @@
 {
   "name": "@supersheets/docdown",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Generate Markdown from a Google Docs API Document resource.",
   "main": "index.js",
   "scripts": {
